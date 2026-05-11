@@ -12,34 +12,32 @@ This project analyzes customer transaction and behavior data to identify purchas
 - Matplotlib
 - Seaborn
 - Google Colab
-
+  
 ## Tasks Performed
 - Data cleaning
 - Handling missing values
 - Exploratory Data Analysis (EDA)
 - Visualization of sales and churn trends
 - Customer behavior analysis
-
+  
 ## Visualizations
 - Monthly Purchase Trend
 - Customer Churn Analysis
 - Product Category Analysis
 - Gender Distribution
-
+  
 ## Key Insights
 1. Electronics and Home categories are highly purchased.
 2. Customer activity varies across months.
 3. Customer churn indicates retention improvement opportunities.
-
+   
 ## Recommendations
 1. Focus marketing on high-performing product categories.
 2. Provide loyalty rewards for repeat customers.
 3. Use personalized offers to reduce churn.
-
+4. 
 ## Deliverables
-- Jupyter/Colab Notebook
+- Colab Notebook
 - PDF Report
 - Visualizations and Findings
-
-## Author
-Swaroop
+  
